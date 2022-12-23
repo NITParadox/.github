@@ -1,4 +1,4 @@
-<img src = "/resources/logo.png" >
+<img src = "/profile/resources/logo.png" >
 
 <h1 align="center">NITParadox</h1>
 
